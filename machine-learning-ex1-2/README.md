@@ -1,0 +1,3 @@
+There are the following functions:
+(1) univariate linear regression: cost function computing; gradient descent. 
+(2) multivariate linear regression: feature scaling; cost function computing; gradient descent; surface and contour plot; Normal equation to compute. 
